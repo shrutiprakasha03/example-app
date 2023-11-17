@@ -1,5 +1,5 @@
 <?php
-
+ namespace Practicals;
 class Song
 {
     // Properties
@@ -63,3 +63,4 @@ class Song
 }
 
 ?>
+s
