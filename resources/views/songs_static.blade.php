@@ -89,32 +89,40 @@
                 <li>Playlist 1</li>
                 <li>Playlist 2</li>
                 <li>Playlist 3</li>
+                <li>Playlist 4</li>
             </ul>
         </aside>
 
         <section>
             <div>
                 <div>Serial No</div>
-                <div>Song Title</div>
-                <div>Artist Name</div>
+                <div>Song name</div>
+                <div>Artist name</div>
                 <div>Album Name</div>
                 <div>Duration</div>
             </div>
             <div>
                 <div>1</div>
-                <div>Song 1</div>
-                <div>Artist 1</div>
-                <div>Album 1</div>
-                <div>3:30</div>
+                <div>Cineraria</div>
+                <div>KK</div>
+                <div>Humsafar</div>
+                <div>6:55</div>
             </div>
             <div>
                 <div>2</div>
-                <div>Song 2</div>
-                <div>Artist 2</div>
-                <div>Album 2</div>
-                <div>4:15</div>
+                <div>Skyfall</div>
+                <div>Adele</div>
+                <div>Skyfall</div>
+                <div>4:49</div>
             </div>
-            <!-- Add more rows as needed -->
+            <div>
+                <div>3</div>
+                <div>Waves</div>
+                <div>Imagine Dragons</div>
+                <div>Mercury-Act 2</div>
+                <div>3:47</div>
+            </div>
+            
         </section>
     </main>
 
