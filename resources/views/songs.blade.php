@@ -35,8 +35,7 @@
     <tr>
         <td>{{ $song -> getTitle() }}</td>
         <td>{{ $song -> getArtist() }}</td>
-        <td>{{ $song -> getGenre() }}</td>
-        <td>{{ $song -> getTempo() }}</td>
+        
 
 
     </tr>
