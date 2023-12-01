@@ -1,7 +1,7 @@
 <html>
     <body>
         <center>
-    <h1>Bhumi's Vegetable store</h1>
+    <h1> Vegetable store</h1>
     <table border='3'>
         <tr>
             <th>Vegetable name</th>
